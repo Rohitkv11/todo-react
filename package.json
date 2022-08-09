@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rohitkv11.github.io/to-do-react/",
+  "homepage": "https://rohitkv11.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
